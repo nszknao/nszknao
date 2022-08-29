@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="left">
+  <!--
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nszknao&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=radical" />
+  -->
+  <img alt="Github Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nszknao&count_private=true&show_icons=true&show_icons=true&theme=radical" />
+</p>
+</p>
+
 <!--
 **nszknao/nszknao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
